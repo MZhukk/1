@@ -1,4 +1,10 @@
-﻿{
+{    
+    "name": "Start Parameter Name",
+    "version": "1.0.0",
+    "parameter": "menu:http://link.to.menu",
+    "welcome": "none"
+}
+{
    "name": "Dstore",
    "type": "pages",
    "headline": "Dstore-vip",
