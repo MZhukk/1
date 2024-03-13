@@ -1,4 +1,10 @@
-﻿{
+{    
+    "name": "Start Parameter Name",
+    "version": "1.0.0",
+    "parameter": "content:http://msx.lh1.in/msx/lang/ru.json",
+    "welcome": "none"
+},
+{
    "name": "Dstore",
    "type": "pages",
    "headline": "Dstore-vip",
