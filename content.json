@@ -4,18 +4,6 @@
     "parameter": "content:http://msx.lh1.in/msx/lang/ru.json",
     "welcome": "none"
 },
-{
-   "name": "Dstore",
-   "type": "pages",
-   "headline": "Dstore-vip",
-  "dictionary": "http://msx.lh1.in/msx/lang/ru.json",
-
-   "template": {
-      "type": "separate",
-      "layout": "0,0,2,3",
-      "alignment":"title-center",
-      "color": "msx-glass"
-   },
 "items": [
       {
 	"tag": "vip",
