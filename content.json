@@ -1,6 +1,0 @@
-{    
-    "name": "XSmart",
-    "version": "1.0.0",
-    "parameter": "content:http://app.xsmart.tv/?seller=dstore",
-    "welcome": "none"
-}
